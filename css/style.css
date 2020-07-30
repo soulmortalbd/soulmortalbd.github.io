@@ -1,0 +1,35 @@
+body {
+  background-color: #d2cde4dc;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card-header {
+  padding: 0;
+  margin: 0;
+}
+
+.card-border {
+  border-radius: 30px;
+}
+
+.previous-relapse {
+  color: #e4e3e3;
+}
+
+.list-website {
+  background: -webkit-gradient(linear, left top, left bottom, from(black), to(blue));
+  background: linear-gradient(black, blue);
+}
+
+.list-website a {
+  color: pink;
+  text-decoration: none;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.list-website a:hover {
+  background: white;
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
